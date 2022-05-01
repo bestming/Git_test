@@ -3,3 +3,4 @@ macOS\
 win10
 GitHub
 win10-idea
+torgit
