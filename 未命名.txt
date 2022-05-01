@@ -4,3 +4,4 @@ win10
 GitHub
 win10-idea
 torgit
+win10-idea2
